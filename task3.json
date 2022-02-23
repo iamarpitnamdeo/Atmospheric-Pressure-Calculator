@@ -1,0 +1,68 @@
+{
+  "homebaseId": "1234",
+  "teamId": "4444",
+  "inputTasks": [
+    {
+      "taskId": "5555",
+      "lineitems": [
+        {
+          "name": "Product name",
+          "quantity": 4
+        }
+      ],
+      "resources": [
+        {
+          "name": "Resource name",
+          "value": 6
+        }
+      ],
+      "taskType": "typeOfTask",
+      "latLng": [
+        {
+          "lat": 23,
+          "lng": 25
+        }
+      ],
+      "slot": {
+        "start": "Starting",
+        "end": "Ending"
+      },
+      "transactionDuration": 22,
+      "volume": {
+        "value": "44",
+        "unit": "Kg"
+      }
+    },
+    {
+      "taskId": "5555",
+      "lineitems": [
+        {
+          "name": "Product name",
+          "quantity": 4
+        }
+      ],
+      "resources": [
+        {
+          "name": "Resource name",
+          "value": 6
+        }
+      ],
+      "taskType": "typeOfTask",
+      "latLng": [
+        {
+          "lat": 23,
+          "lng": 25
+        }
+      ],
+      "slot": {
+        "start": "Starting",
+        "end": "Ending"
+      },
+      "transactionDuration": 22,
+      "volume": {
+        "value": "44",
+        "unit": "Kg"
+      }
+    }
+  ]
+}
